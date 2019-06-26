@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 'A simple blog post '
 date: 2019-06-26T21:17:57.067Z
 description: a random generated first blog post of all time
-featuredpost: false
+featuredpost: true
 featuredimage: /img/62241128_2349143021787604_8166901427403227136_n.jpg
 tags:
   - starter new blog post
